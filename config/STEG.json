@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "STEG",
+    "logoUrl": ""
+  },
+  "update": {
+    "enabled": true,
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "forceUpdate": false,
+    "message": "A new update is available."
+  }
+}
